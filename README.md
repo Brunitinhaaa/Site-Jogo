@@ -38,7 +38,8 @@ O Projeto Suporte Game é uma plataforma intuitiva para fornecer informações d
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/c6cf4eee-ea75-4088-82c8-743fe7e7f5bf)
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/bd88ad33-3186-4d65-bdf4-ad1b03e88bdd)
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/e6d9e42b-9aab-4559-b2ac-2e494926557b)
-![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/4067b327-3d1d-4aa1-bbbf-3bfc2f456b89)
+![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/c8884103-6338-4fc0-a320-a872c4b4f19c)
+
 
 
 
