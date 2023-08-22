@@ -34,6 +34,7 @@ Rodapé: O rodapé contém links para as redes sociais, informações de desenvo
 
 # Considerações Finais
 O Projeto Suporte Game é uma plataforma intuitiva para fornecer informações de suporte a jogadores e entusiastas de jogos de computador. Com sua organização clara e visual atraente, o site oferece soluções para problemas comuns, requisitos de sistema e um meio de contato direto com a equipe de suporte. Sinta-se à vontade para explorar, modificar e expandir este projeto de acordo com suas necessidades.
+
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/a2480b78-caf3-4908-84ed-bab43202bb72)
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/c6cf4eee-ea75-4088-82c8-743fe7e7f5bf)
 ![image](https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/bd88ad33-3186-4d65-bdf4-ad1b03e88bdd)
